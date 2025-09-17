@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.crt
+vault_init.txt
+*.tar.gz
+gitleaks-report.json
